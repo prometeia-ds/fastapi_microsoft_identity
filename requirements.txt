@@ -1,5 +1,6 @@
 fastapi
 httpx
-python-jose
+python-jose[cryptography]
 pytest
 multidict
+lru-dict
